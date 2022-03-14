@@ -19,7 +19,7 @@ Install my plugin like any other cuberite plugin
 
 It's simple, just use an axe to break a tree and it will work.
 
-![CHEESE¡]([img]http://i.imgur.com/jiXhEiuh.gif[/img])
+![CHEESE!](http://i.imgur.com/jiXhEiuh.gif)
 
 Commands:
 ```Commands:
