@@ -31,7 +31,6 @@ No commands
 
 | Permission | Description |
 | ------------- | ------------- |
-| TreeAssist.CutTree | Cut a tree |
 | TreeAssist.CutFullTree | Cut Full tree |
 
 ## Old Plugin:
